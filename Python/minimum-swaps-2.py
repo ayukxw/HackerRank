@@ -11,4 +11,4 @@ for i in range(0, n - 1):
         arr[i] = t
         swaps += 1
 
-print(swaps)
+return (swaps)
